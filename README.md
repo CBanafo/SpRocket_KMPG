@@ -29,10 +29,10 @@
 ## Conclusions
 Of the 1,000 customers, it would benefit the organization most if it channels its advertizing resources on:</br>
 > * People in their <strong>40's</strong> as such persons seem more interested in the organizations products</br>
-> * Product brands with the high mean profits such as the <bold>WeareA2B</bold>>.</br>
-> * People in the <strong>Financing Services</strong>>, <strong>Marketing</strong> and <strong>Health Sectors</strong> should be prioritized most</br>
+> * Product brands with the high mean profits such as the <strong>WeareA2B</strong>.</br>
+> * People in the <strong>Financing Services</strong>, <strong>Marketing</strong> and <strong>Health Sectors</strong> should be prioritized most</br>
 > * The large product sizes.</br>
-> * The Product classes of the </bold>medium</bold> type should as well be prioritized over others since most customers seem to prioritize this classes of products and also its influence on the overall profit of the organization since it's significant compared to the others.</br>
-> * The <bold>Touring</bold> and <bold>Standard</bold> product lines should be considered most. But a greater priority for the Standardard product lines since more people seem to be interested in these product lines before the Touring type due to its high profit margin which is statistically significant compared to the others.</br>
+> * The Product classes of the </strong>medium</strong> type should as well be prioritized over others since most customers seem to prioritize this classes of products and also its influence on the overall profit of the organization since it's significant compared to the others.</br>
+> * The <strong>Touring</strong> and <strong>Standard</strong> product lines should be considered most. But a greater priority for the Standardard product lines since more people seem to be interested in these product lines before the Touring type due to its high profit margin which is statistically significant compared to the others.</br>
 
 ![SpRocket](https://img.freepik.com/free-vector/cyclist_1308-86589.jpg?w=2000)
